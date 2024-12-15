@@ -1,6 +1,4 @@
 ----------------------------------------------------------------------------------------------
-Hello! my name is Nekotin! 😀
-I'm from Ukraine💙💛
-I am an active Python developer🐍
-     Thanks for watching ! <3
+Hello! my name is Terry
+I'm from Ukraine 
 -----------------------------------------------------------------------------------------------     
